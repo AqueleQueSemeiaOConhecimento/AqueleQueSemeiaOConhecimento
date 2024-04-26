@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá, eu sou [Matheus Araujo de Melo]
 
-<!--
-**AqueleQueSemeiaOConhecimento/AqueleQueSemeiaOConhecimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Estudante de Engenharia da Computação na [UNISATC]([https://www.unisatc.com.br/](https://unisatc.com.br/pagina-inicial/?utm_source=pagina-inicial-satc-educacao&utm_medium=site&utm_campaign=satc-educacao) em Criciúma.
 
-Here are some ideas to get you started:
+🔭 Atualmente disponível para oportunidades de trabalho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Apaixonado por tecnologia, desde a manutenção de hardware até o desenvolvimento de software.
+
+🌱 Estou constantemente buscando aprofundar meus conhecimentos e explorar novas tecnologias.
+
+🚀 Tenho experiência em:
+   - React
+   - Next.js
+   - PHP Laravel
+   - SQL
+   
+## Entre em Contato
+
+📞 Telefone: [(48) 999646579](#)
+✉️ Email: [d3rr3tido@gmail.com](#)
+📷 Instagram: [https://www.instagram.com/d3rr3tido/](#)
