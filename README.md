@@ -1,4 +1,4 @@
-# Olá, eu sou [Matheus Araujo de Melo]
+# Olá, eu sou Matheus Araujo de Melo
 
 👨‍💻 Estudante de Engenharia da Computação na [UNISATC]([https://www.unisatc.com.br/](https://unisatc.com.br/pagina-inicial/?utm_source=pagina-inicial-satc-educacao&utm_medium=site&utm_campaign=satc-educacao) em Criciúma.
 
